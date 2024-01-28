@@ -1,0 +1,189 @@
+/* Regiter/Login sheet style */
+.img{
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.main{
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    width: 420px;
+    height: 460px;
+    margin-right: 490px;
+    margin-top: 85px;
+}
+
+h2{
+    font-size: 18px;
+    margin-right: 35px;
+    margin-top: 25px;
+}
+
+.c1{
+    color: #455A64;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-right: 35px;
+}
+
+.c2{
+    color: #455A64;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-right: 35px;
+}
+
+.c3{
+    color: #1E88E5;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.input{
+    direction: ltr;
+    text-align: center;
+    margin-right: 25px;
+    margin-top: 20px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #42A5F5;
+    border-radius: 10px;
+}
+
+.submit{
+    color: #ffff;
+    background-color: #00897B;
+    font-size: 20px;
+    padding-right: 170px;
+    padding-left: 170px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-right: 22px;
+    margin-top: 40px;
+    border-color: #00897B;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* Regiter sheet style */
+
+.Register{
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    width: 420px;
+    height: 560px;
+    margin-right: 490px;
+    margin-top: 45px;
+}
+
+.form{
+    direction: ltr;
+    text-align: center;
+    margin-right: 25px;
+    margin-top: 20px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #42A5F5;
+    border-radius: 10px;
+}
+
+.h1{
+    font-size: 18px;
+    margin-right: 40px;
+    margin-top: 12px;
+}
+
+.pr{
+    color: #455A64;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-right: 35px;
+}
+
+.submit-r{
+    color: #ffff;
+    background-color: #00897B;
+    font-size: 20px;
+    padding-right: 170px;
+    padding-left: 170px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-right: 27px;
+    margin-top: 30px;
+    border-color: #00897B;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* Code sheet style */
+
+.code{
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    width: 400px;
+    height: 360px;
+    margin-right: 490px;
+    margin-top: 130px;
+}
+
+.pc{
+    color: #455A64;
+    font-size: 14px;
+    margin-top: 8px;
+    margin-right: 35px;
+}
+
+.input-c{
+    direction: ltr;
+    text-align: center;
+    margin-right: 15px;
+    margin-top: 25px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #42A5F5;
+    border-radius: 10px;
+}
+
+.submit-c{
+    color: #ffff;
+    background-color: #00897B;
+    font-size: 20px;
+    padding-right: 170px;
+    padding-left: 170px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-right: 17px;
+    margin-top: 30px;
+    border-color: #00897B;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* Login sheet style */
+
+.login{
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    width: 420px;
+    height: 430px;
+    margin-right: 490px;
+    margin-top: 110px;
+}
+.form:focus{
+    outline: none;
+    scale: 1.1;
+}
+.input:focus{
+    outline: none;
+    scale: 1.1;
+}

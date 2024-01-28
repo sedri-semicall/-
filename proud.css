@@ -1,0 +1,184 @@
+html{
+    box-sizing: border-box;
+}
+*,*::after,*::before{
+    box-sizing: inherit;
+    margin: 0;
+}
+body{
+  
+ overflow-x: hidden;
+}
+.container{
+    margin: auto;
+    position: relative;
+     margin-top: 10px;
+    width: 1320px;
+    position: relative;
+    border: 1px solid #29B6F6;
+    height: 650px;
+    left: auto;
+    display: flex;
+    
+}
+.search{
+    width: 700px;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    border-radius: 2px;
+    border: 1px solid #29B6F6;
+    border-radius: 4px;
+    font-size: 18px;
+    right : 320px;
+    
+    top: 7.5px;
+   /* z-index: -1;   */
+    
+}
+
+.sicon{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    z-index: 0;
+    top: 10px;
+    left: 0px;
+}
+.title{
+position: relative;
+top: 60px;
+left: 155px;
+}
+.imagebox{
+    position: relative;
+    top: 150px;
+    
+}
+.center{
+    
+}
+.i2,.i3{
+    width: 150px;
+position: relative;
+left: 652px;
+top: -50px;
+border: 1px solid #009688;
+}
+.i1{
+    width: 300px;
+    position: relative;
+    left: 650px;
+    top: -60px;
+    border: 1px solid #009688;
+}
+.price{
+    color: blue;
+    position: relative;
+    bottom: 350px;
+    left: 280px;
+}
+.attr{
+ 
+    position: relative;
+    top: -300px;
+    left: 320px;
+    font-size: 1.6rem;
+}
+.attribiut{
+    margin-top: 40px;
+    font-size: 20px;
+    position: relative;
+    margin-right: 15px;
+  
+  
+}
+.add{
+    position: relative;
+    width: 250px;
+    height: 40px;
+ border: 1px solid #81D4FA;
+ border-radius: 5px;
+    bottom: 225px;
+    left: 300px;
+    color: whitesmoke;
+    font-size: 18px;
+    background: #009688;
+
+}
+.star{
+width: 20px;
+height: 20px;
+position: relative;
+bottom:220px ;
+left: 180px;
+}
+.rate{
+    position: relative;
+    bottom:222px;
+    left: 240px;
+}
+.cadr{
+    position: relative;
+    width: 290px;
+    height: 400px;
+    top: 135px;
+    left: 625px;
+    border: 1px solid #B0BEC5;
+}
+.left{
+    position: relative;
+    width: 530px;
+    height: 420px;
+   bottom: 515px;
+   right: 850px;
+    border: 1px solid #B0BEC5;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.par{
+    position: relative;
+    right: 140px;
+}
+.line{
+    color: #009688;
+    position: relative;
+    width: 200px;
+    height: 1px;
+    margin-top: 50px; 
+    margin-left: 85px;
+   border: 1px solid #009688;
+}
+.linked{
+
+}
+
+.l1{
+    position: relative;
+    top: 150px;
+    left: 300px;
+}
+.l2{
+    position: relative;
+    bottom: 75px;
+    left: 5px;    
+}
+.caption{
+    position: relative;
+   bottom: 850px;
+   right : 900px;
+   font-size: 22px;
+}
+.add:hover{
+scale: 1.1;
+cursor: pointer;
+}
+img:hover{
+scale: 1.1;
+}
+.search:focus{
+    scale: 1.1;
+    border: 1px solid #009688;
+    outline: none;
+}
